@@ -1,0 +1,20 @@
+.select-cargos{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.select-cargos select{
+    padding: 36px;
+    font-size: 16px;
+    color: #a4a4a4;
+    margin: 15px 0;
+    
+}
+
+.select-cargos label{
+    font-size: 18px;
+    font-weight: 600;
+    color: #212121;
+}
+

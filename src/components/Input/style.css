@@ -1,0 +1,20 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
+}
+
+.container label {
+    font-size: 18px;
+    font-weight: 600;
+    color: #212121;
+  }
+  
+  .container input {
+    padding: 36px;
+    font-size: 16px;
+    color: #a4a4a4;
+    margin: 15px 0;
+  }

@@ -1,0 +1,16 @@
+.form-button{
+    margin-top: 32px;
+    width: 167px;
+    padding: 32px;
+    border-radius: 10px;
+    background-color: #6278F7;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+
+} 
+
+.form-button:hover{
+    color: #95FFD4;
+}

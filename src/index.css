@@ -1,0 +1,16 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: aquamarine;
+ 
+}
+
+input,select,button{
+  border: none;
+}
+
+input:focus {
+  border: none;
+}
