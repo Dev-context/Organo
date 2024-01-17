@@ -1,0 +1,22 @@
+.container_times {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+  background-color: aqua;
+ 
+}
+
+.container_times_cards{
+  display: flex;
+  width:50%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.title_job {
+  display: flexbox;
+  font-size: 32px;
+  font-weight: 400;
+  color: #212121;
+}

@@ -1,16 +1,29 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Prata&display=swap');
+:root {
+  --primary-color: #6278f7;
+  --secondary-color: #95ffd4;
+  --third-color: #f2f2f2;
+  --title-font-family: 'Prata', serif;
+  --current-font-family: 'Montserrat', sans-serif;
+}
 
 body {
   margin: 0;
   padding: 0;
-  background-color: aquamarine;
- 
 }
 
-input,select,button{
+input,
+select,
+button {
   border: none;
 }
 
 input:focus {
   border: none;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--title-font-family);
 }
